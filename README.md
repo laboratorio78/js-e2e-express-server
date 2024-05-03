@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/devops-landes/rm-lab-pipeline2/_apis/build/status%2Fpipeline.js-e2e-express-server?branchName=main)](https://dev.azure.com/devops-landes/rm-lab-pipeline2/_build/latest?definitionId=12&branchName=main)
 ---
 page_type: sample
 languages:
